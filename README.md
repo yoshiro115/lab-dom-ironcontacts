@@ -23,7 +23,7 @@
   - Access and modify HTML elements content using properties `textContent`, `innerHTML`
   - Add or remove HTML elements to the DOM using Javascript DOM methods `createElement()`, `appendChild()`, `removeChild()`, `insertBefore()`
   - Add or remove event listeners to HTML elements using DOM methods `addEventListener()`, `removeEventListener()`
-  - Use loops to iterate through HTML elements, performing actions like adding event listeners and accessing values
+  - Use loops to iterate through a list of HTML elements, and perform actions like adding event listeners and accessing values
   - Access and modify properties, values and attributes of HTML elements 
   - Add, remove and toggle CSS classes to HTML elements using DOM methods `classList.add()`, `classList.remove()`, `classList.toggle()`
 
